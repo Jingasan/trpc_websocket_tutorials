@@ -1,6 +1,6 @@
 # trpc_websocket_tutorials
 
-tRPC + WebSocketのチュートリアルコード
+ローカルで動作するtRPC + WebSocketの簡易チャットアプリ
 
 ## How to use
 
