@@ -1,7 +1,7 @@
 {
   "name": "trpc_websocket_tutorials",
   "version": "0.0.1",
-  "description": "",
+  "description": "tRPC + WebSocket",
   "main": "index.js",
   "scripts": {
     "dev": "run-p dev:server dev:client",
